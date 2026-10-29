@@ -1,0 +1,4 @@
+interface:
+  display_name: "AZIRAL Product Video"
+  short_description: "Evidence-based product demos in HyperFrames"
+  default_prompt: "Use $aziral-product-video to turn the supplied app recording into a concise product demo with English and Russian variants."

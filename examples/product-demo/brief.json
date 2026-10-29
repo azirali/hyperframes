@@ -1,0 +1,62 @@
+{
+  "example_status": "Fictional concept demonstrating the brief structure. Not a claim about a shipped application.",
+  "product": "DemoBoard",
+  "owner": "Example owner",
+  "workflow": "Create a task and see it in a list",
+  "deliverable": "Storyboard plan",
+  "duration_seconds": 12,
+  "aspect_ratio": "9:16",
+  "languages": [
+    "en",
+    "ru",
+    "kk"
+  ],
+  "audio": "No audio requested",
+  "evidence": {
+    "recording": null,
+    "approved_capability_source": null,
+    "claim_status": "Illustrative concept only",
+    "concept_label_required": true,
+    "unsupported_claims_to_omit": [
+      "Real customer counts",
+      "Measured time savings",
+      "A shipped localized application",
+      "Availability in any app store"
+    ]
+  },
+  "assets": [],
+  "shots": [
+    {
+      "id": "start",
+      "duration_seconds": 3,
+      "visual": "Concept task list with a visible add control",
+      "text": {
+        "en": "One clear action",
+        "ru": "Одно понятное действие",
+        "kk": "Бір түсінікті әрекет"
+      }
+    },
+    {
+      "id": "action",
+      "duration_seconds": 5,
+      "visual": "Concept input showing a task being entered",
+      "text": {
+        "en": "Add a task",
+        "ru": "Добавьте задачу",
+        "kk": "Тапсырма қосыңыз"
+      }
+    },
+    {
+      "id": "result",
+      "duration_seconds": 4,
+      "visual": "Concept task list containing the new entry",
+      "text": {
+        "en": "See the result",
+        "ru": "Посмотрите результат",
+        "kk": "Нәтижені көріңіз"
+      }
+    }
+  ],
+  "publication": "Not requested",
+  "cost_limit": "No paid services authorized"
+}
